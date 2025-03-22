@@ -1,0 +1,29 @@
+Nome do cliente: Lucas Paiva
+Data de emissão: 22/03/2025.
+
+Descrição do serviço: Andamento do projeto de suprimentos de informática da empresa WFON.
+
+Andamento: Foi realizado o orçamento do computador para a Sala de Atendimento ao cliente, os componentes desse computador serão:
+
+- Placa mãe: Placa Mae Gigabyte H410m H V2 Intel, DDR4, LGA 1200, Matx M.2 Nvme, VGA HDMI, R$699,99
+
+- Processador: Processador Intel Core i3-10105, 3.7GHz (4.4GHz Max Turbo), Cache 6MB, Quad Core, 8 Threads, LGA 1200, Vídeo Integrado - BX8070110105, R$1.150,00
+
+- SSD(Armazenamento de informações): SSD Corsair MP600 CORE XT, 1TB. R$750,00
+
+- Memória RAM: Memória RAM Corsair Vengeance LPX, 16GB, 2400MHz, DDR4, R$334,00
+
+- Placa de Vídeo: Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, R$1.500,00
+
+- Fonte de alimentação: Fonte De Alimentação Adata Xpg Core Reactor 650w 80 Plus Gold, R$862,00
+- Gabinete: Gabinete Gamer Rise Mode Glass 06X, Mid Tower, ATX, R$380,00
+
+- Mouse e teclado: Teclado e Mouse Sem Fio Dell KM3322W, USB, R$199,99
+R$5.875,98 (computador)
+Custo para comprar o mesmo:  3.556,37
+Margem de lucro (sem mão obra):  R$2.319,61
+Mão de obra: R$350,00
+Custos dos softwares: R$300,00
+
+Valor total de 1 computador: 6.525,98
+lucro total de 1 computador: R$2.969,00
